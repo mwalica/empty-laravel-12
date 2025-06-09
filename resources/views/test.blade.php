@@ -7,6 +7,6 @@
 </head>
 <body>
 <h3>Test</h3>
-{{date()}}
+{{date('Y-m-d)}}
 </body>
 </html>
